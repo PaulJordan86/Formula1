@@ -1,0 +1,1001 @@
+Race,Position,Driver,Team
+British Grand Prix,1,Nino Farina,Alfa Romeo
+British Grand Prix,2,Luigi Fagioli,Alfa Romeo
+British Grand Prix,3,Reg Parnell,Alfa Romeo
+British Grand Prix,4,Yves Cabantous,Talbot-Lago
+British Grand Prix,5,Louis Rosier,Talbot-Lago
+British Grand Prix,6,Bob Gerard,ERA
+British Grand Prix,7,Cuth Harrison,ERA
+British Grand Prix,8,Philippe Étancelin,Talbot-Lago
+British Grand Prix,9,David Hampshire,Maserati
+British Grand Prix,10,Brian Shawe Taylor,Maserati
+British Grand Prix,10,Joe Fry,Maserati
+British Grand Prix,11,Johnny Claes,Talbot-Lago
+British Grand Prix,12,Juan Fangio,Alfa Romeo
+British Grand Prix,13,Joe Kelly,Alta
+British Grand Prix,14,Prince Bira,Maserati
+British Grand Prix,15,David Murray,Maserati
+British Grand Prix,16,Geoff Crossley,Alta
+British Grand Prix,17,Toulo de Graffenried,Maserati
+British Grand Prix,18,Louis Chiron,Maserati
+British Grand Prix,19,Eugène Martin,Talbot-Lago
+British Grand Prix,20,Peter Walker,ERA
+British Grand Prix,20,Tony Rolt,ERA
+British Grand Prix,21,Leslie Johnson,ERA
+Monaco Grand Prix,1,Juan Fangio,Alfa Romeo
+Monaco Grand Prix,2,Alberto Ascari,Ferrari
+Monaco Grand Prix,3,Louis Chiron,Maserati
+Monaco Grand Prix,4,Raymond Sommer,Ferrari
+Monaco Grand Prix,5,Prince Bira,Maserati
+Monaco Grand Prix,6,Bob Gerard,ERA
+Monaco Grand Prix,7,Johnny Claes,Talbot-Lago
+Monaco Grand Prix,8,Luigi Villoresi,Ferrari
+Monaco Grand Prix,9,Philippe Étancelin,Talbot-Lago
+Monaco Grand Prix,10,José Froilán González,Maserati
+Monaco Grand Prix,11,Nino Farina,Alfa Romeo
+Monaco Grand Prix,12,Luigi Fagioli,Alfa Romeo
+Monaco Grand Prix,13,Louis Rosier,Talbot-Lago
+Monaco Grand Prix,14,Robert Manzon,Simca
+Monaco Grand Prix,15,Toulo de Graffenried,Maserati
+Monaco Grand Prix,16,Maurice Trintignant,Simca
+Monaco Grand Prix,17,Cuth Harrison,ERA
+Monaco Grand Prix,18,Franco Rol,Maserati
+Monaco Grand Prix,19,Harry Schell,Cooper
+Monaco Grand Prix,20,Peter Whitehead,Ferrari
+Monaco Grand Prix,21,Alfredo Pián,Maserati
+Indianapolis 500,1,Johnnie Parsons,Kurtis Kraft
+Indianapolis 500,2,Bill Holland,Deidt
+Indianapolis 500,3,Mauri Rose,Deidt
+Indianapolis 500,4,Cecil Green,Kurtis Kraft
+Indianapolis 500,5,Joie Chitwood,Kurtis Kraft
+Indianapolis 500,5,Tony Bettenhausen,Kurtis Kraft
+Indianapolis 500,6,Lee Wallard,Moore
+Indianapolis 500,7,Walt Faulkner,Kurtis Kraft
+Indianapolis 500,8,George Connor,Lesovsky
+Indianapolis 500,9,Paul Russo,Nichels
+Indianapolis 500,10,Pat Flaherty,Kurtis Kraft
+Indianapolis 500,11,Myron Fohr,Marchese
+Indianapolis 500,12,Duane Carter,Stevens
+Indianapolis 500,13,Mack Hellings,Kurtis Kraft
+Indianapolis 500,14,Jack McGrath,Kurtis Kraft
+Indianapolis 500,15,Troy Ruttman,Lesovsky
+Indianapolis 500,16,Gene Hartley,Langley
+Indianapolis 500,17,Jimmy Davies,Ewing
+Indianapolis 500,18,Johnny McDowell,Kurtis Kraft
+Indianapolis 500,19,Walt Brown,Kurtis Kraft
+Indianapolis 500,20,Travis Webb,Maserati
+Indianapolis 500,21,Jerry Hoyt,Kurtis Kraft
+Indianapolis 500,22,Walt Ader,Rae
+Indianapolis 500,23,Jackie Holmes,Olson
+Indianapolis 500,24,Jim Rathmann,Wetteroth
+Indianapolis 500,25,Henry Banks,Maserati
+Indianapolis 500,26,Bill Schindler,Snowberger
+Indianapolis 500,27,Bayliss Levrett,Adams
+Indianapolis 500,27,Bill Cantrell,Adams
+Indianapolis 500,28,Fred Agabashian,Kurtis Kraft
+Indianapolis 500,29,Jimmy Jackson,Kurtis Kraft
+Indianapolis 500,30,Sam Hanks,Kurtis Kraft
+Indianapolis 500,31,Tony Bettenhausen,Deidt
+Indianapolis 500,32,Dick Rathmann,Watson
+Indianapolis 500,33,Duke Dinsmore,Kurtis Kraft
+Swiss Grand Prix,1,Nino Farina,Alfa Romeo
+Swiss Grand Prix,2,Luigi Fagioli,Alfa Romeo
+Swiss Grand Prix,3,Louis Rosier,Talbot-Lago
+Swiss Grand Prix,4,Prince Bira,Maserati
+Swiss Grand Prix,5,Felice Bonetto,Maserati
+Swiss Grand Prix,6,Toulo de Graffenried,Maserati
+Swiss Grand Prix,7,Nello Pagani,Maserati
+Swiss Grand Prix,8,Harry Schell,Talbot-Lago
+Swiss Grand Prix,9,Louis Chiron,Maserati
+Swiss Grand Prix,10,Johnny Claes,Talbot-Lago
+Swiss Grand Prix,11,Toni Branca,Maserati
+Swiss Grand Prix,12,Juan Fangio,Alfa Romeo
+Swiss Grand Prix,13,Philippe Étancelin,Talbot-Lago
+Swiss Grand Prix,14,Eugène Martin,Talbot-Lago
+Swiss Grand Prix,15,Raymond Sommer,Ferrari
+Swiss Grand Prix,16,Luigi Villoresi,Ferrari
+Swiss Grand Prix,17,Alberto Ascari,Ferrari
+Swiss Grand Prix,18,Yves Cabantous,Talbot-Lago
+Belgian Grand Prix,1,Juan Fangio,Alfa Romeo
+Belgian Grand Prix,2,Luigi Fagioli,Alfa Romeo
+Belgian Grand Prix,3,Louis Rosier,Talbot-Lago
+Belgian Grand Prix,4,Nino Farina,Alfa Romeo
+Belgian Grand Prix,5,Alberto Ascari,Ferrari
+Belgian Grand Prix,6,Luigi Villoresi,Ferrari
+Belgian Grand Prix,7,Pierre Levegh,Talbot-Lago
+Belgian Grand Prix,8,Johnny Claes,Talbot-Lago
+Belgian Grand Prix,9,Geoff Crossley,Alta
+Belgian Grand Prix,10,Toni Branca,Maserati
+Belgian Grand Prix,11,Eugène Chaboud,Talbot-Lago
+Belgian Grand Prix,12,Raymond Sommer,Talbot-Lago
+Belgian Grand Prix,13,Philippe Étancelin,Talbot-Lago
+Belgian Grand Prix,14,Yves Cabantous,Talbot-Lago
+French Grand Prix,1,Juan Fangio,Alfa Romeo
+French Grand Prix,2,Luigi Fagioli,Alfa Romeo
+French Grand Prix,3,Peter Whitehead,Ferrari
+French Grand Prix,4,Robert Manzon,Simca
+French Grand Prix,5,Philippe Étancelin,Talbot-Lago
+French Grand Prix,5,Eugène Chaboud,Talbot-Lago
+French Grand Prix,6,Charles Pozzi,Talbot-Lago
+French Grand Prix,6,Louis Rosier,Talbot-Lago
+French Grand Prix,7,Nino Farina,Alfa Romeo
+French Grand Prix,8,Yves Cabantous,Talbot-Lago
+French Grand Prix,9,Pierre Levegh,Talbot-Lago
+French Grand Prix,10,Felice Bonetto,Maserati
+French Grand Prix,11,Johnny Claes,Talbot-Lago
+French Grand Prix,12,Louis Rosier,Talbot-Lago
+French Grand Prix,13,Reg Parnell,Maserati
+French Grand Prix,14,Franco Rol,Maserati
+French Grand Prix,15,Louis Chiron,Maserati
+French Grand Prix,16,David Hampshire,Maserati
+French Grand Prix,17,Raymond Sommer,Talbot-Lago
+French Grand Prix,18,José Froilán González,Maserati
+Italian Grand Prix,1,Nino Farina,Alfa Romeo
+Italian Grand Prix,2,Dorino Serafini,Ferrari
+Italian Grand Prix,2,Alberto Ascari,Ferrari
+Italian Grand Prix,3,Luigi Fagioli,Alfa Romeo
+Italian Grand Prix,4,Louis Rosier,Talbot-Lago
+Italian Grand Prix,5,Philippe Étancelin,Talbot-Lago
+Italian Grand Prix,6,Toulo de Graffenried,Maserati
+Italian Grand Prix,7,Peter Whitehead,Ferrari
+Italian Grand Prix,8,David Murray,Maserati
+Italian Grand Prix,9,Cuth Harrison,ERA
+Italian Grand Prix,10,Raymond Sommer,Talbot-Lago
+Italian Grand Prix,11,Guy Mairesse,Talbot-Lago
+Italian Grand Prix,12,Franco Rol,Maserati
+Italian Grand Prix,13,Piero Taruffi,Alfa Romeo
+Italian Grand Prix,13,Juan Fangio,Alfa Romeo
+Italian Grand Prix,14,Pierre Levegh,Talbot-Lago
+Italian Grand Prix,15,Juan Fangio,Alfa Romeo
+Italian Grand Prix,16,Johnny Claes,Talbot-Lago
+Italian Grand Prix,17,Alberto Ascari,Ferrari
+Italian Grand Prix,18,Clemente Biondetti,Ferrari
+Italian Grand Prix,19,Henri Louveau,Talbot-Lago
+Italian Grand Prix,20,Franco Comotti,Maserati
+Italian Grand Prix,21,Maurice Trintignant,Simca
+Italian Grand Prix,22,Louis Chiron,Maserati
+Italian Grand Prix,23,Consalvo Sanesi,Alfa Romeo
+Italian Grand Prix,24,Robert Manzon,Simca
+Italian Grand Prix,25,Prince Bira,Maserati
+Italian Grand Prix,26,Paul Pietsch,Maserati
+Italian Grand Prix,27,Felice Bonetto,Milano
+Swiss Grand Prix,1,Juan Fangio,Alfa Romeo
+Swiss Grand Prix,2,Piero Taruffi,Ferrari
+Swiss Grand Prix,3,Nino Farina,Alfa Romeo
+Swiss Grand Prix,4,Consalvo Sanesi,Alfa Romeo
+Swiss Grand Prix,5,Toulo de Graffenried,Alfa Romeo
+Swiss Grand Prix,6,Alberto Ascari,Ferrari
+Swiss Grand Prix,7,Louis Chiron,Maserati
+Swiss Grand Prix,8,Stirling Moss,HWM
+Swiss Grand Prix,9,Louis Rosier,Talbot-Lago
+Swiss Grand Prix,10,Philippe Étancelin,Talbot-Lago
+Swiss Grand Prix,11,Rudi Fischer,Ferrari
+Swiss Grand Prix,12,Harry Schell,Maserati
+Swiss Grand Prix,13,Johnny Claes,Talbot-Lago
+Swiss Grand Prix,14,Guy Mairesse,Talbot-Lago
+Swiss Grand Prix,15,Peter Whitehead,Ferrari
+Swiss Grand Prix,16,Henri Louveau,Talbot-Lago
+Swiss Grand Prix,17,George Abecassis,HWM
+Swiss Grand Prix,18,Yves Cabantous,Talbot-Lago
+Swiss Grand Prix,19,Luigi Villoresi,Ferrari
+Swiss Grand Prix,20,José Froilán González,Talbot-Lago
+Swiss Grand Prix,21,Peter Hirt,Veritas
+Indianapolis 500,1,Lee Wallard,Kurtis Kraft
+Indianapolis 500,2,Mike Nazaruk,Kurtis Kraft
+Indianapolis 500,3,Jack McGrath,Kurtis Kraft
+Indianapolis 500,3,Manny Ayulo,Kurtis Kraft
+Indianapolis 500,4,Andy Linden,Sherman
+Indianapolis 500,5,Bobby Ball,Schroeder
+Indianapolis 500,6,Henry Banks,Moore
+Indianapolis 500,7,Carl Forberg,Kurtis Kraft
+Indianapolis 500,8,Duane Carter,Deidt
+Indianapolis 500,9,Tony Bettenhausen,Deidt
+Indianapolis 500,10,Duke Nalon,Kurtis Kraft
+Indianapolis 500,11,Gene Force,Kurtis Kraft
+Indianapolis 500,12,Sam Hanks,Kurtis Kraft
+Indianapolis 500,13,Bill Schindler,Kurtis Kraft
+Indianapolis 500,14,Mauri Rose,Deidt
+Indianapolis 500,15,Walt Faulkner,Kuzma
+Indianapolis 500,16,Jimmy Davies,Pawl
+Indianapolis 500,17,Fred Agabashian,Kurtis Kraft
+Indianapolis 500,18,Carl Scarborough,Kurtis Kraft
+Indianapolis 500,19,Bill Mackey,Hall
+Indianapolis 500,20,Chuck Stevenson,Marchese
+Indianapolis 500,21,Johnnie Parsons,Kurtis Kraft
+Indianapolis 500,22,Cecil Green,Kurtis Kraft
+Indianapolis 500,23,Troy Ruttman,Kurtis Kraft
+Indianapolis 500,24,Duke Dinsmore,Schroeder
+Indianapolis 500,25,Chet Miller,Kurtis Kraft
+Indianapolis 500,26,Walt Brown,Kurtis Kraft
+Indianapolis 500,27,Rodger Ward,Bromme
+Indianapolis 500,28,Cliff Griffith,Kurtis Kraft
+Indianapolis 500,29,Bill Vukovich,Trevis
+Indianapolis 500,30,George Connor,Lesovsky
+Indianapolis 500,31,Mack Hellings,Deidt
+Indianapolis 500,32,Johnny McDowell,Maserati
+Indianapolis 500,33,Joe James,Watson
+Belgian Grand Prix,1,Nino Farina,Alfa Romeo
+Belgian Grand Prix,2,Alberto Ascari,Ferrari
+Belgian Grand Prix,3,Luigi Villoresi,Ferrari
+Belgian Grand Prix,4,Louis Rosier,Talbot-Lago
+Belgian Grand Prix,5,Yves Cabantous,Talbot-Lago
+Belgian Grand Prix,6,André Pilette,Talbot-Lago
+Belgian Grand Prix,7,Johnny Claes,Talbot-Lago
+Belgian Grand Prix,8,Pierre Levegh,Talbot-Lago
+Belgian Grand Prix,9,Juan Fangio,Alfa Romeo
+Belgian Grand Prix,10,Louis Chiron,Talbot-Lago
+Belgian Grand Prix,11,Consalvo Sanesi,Alfa Romeo
+Belgian Grand Prix,12,Piero Taruffi,Ferrari
+Belgian Grand Prix,13,Philippe Étancelin,Talbot-Lago
+French Grand Prix,1,Luigi Fagioli,Alfa Romeo
+French Grand Prix,1,Juan Fangio,Alfa Romeo
+French Grand Prix,2,Alberto Ascari,Ferrari
+French Grand Prix,2,José Froilán González,Ferrari
+French Grand Prix,3,Luigi Villoresi,Ferrari
+French Grand Prix,4,Reg Parnell,Ferrari
+French Grand Prix,5,Nino Farina,Alfa Romeo
+French Grand Prix,6,Louis Chiron,Talbot-Lago
+French Grand Prix,7,Yves Cabantous,Talbot-Lago
+French Grand Prix,8,Eugène Chaboud,Talbot-Lago
+French Grand Prix,9,Guy Mairesse,Talbot-Lago
+French Grand Prix,10,Consalvo Sanesi,Alfa Romeo
+French Grand Prix,11,Juan Fangio,Alfa Romeo
+French Grand Prix,11,Luigi Fagioli,Alfa Romeo
+French Grand Prix,12,Johnny Claes,Talbot-Lago
+French Grand Prix,13,Louis Rosier,Talbot-Lago
+French Grand Prix,14,Philippe Étancelin,Talbot-Lago
+French Grand Prix,15,Aldo Gordini,Simca
+French Grand Prix,16,Harry Schell,Maserati
+French Grand Prix,17,Maurice Trintignant,Simca
+French Grand Prix,18,Alberto Ascari,Ferrari
+French Grand Prix,19,André Simon,Simca
+French Grand Prix,20,Robert Manzon,Simca
+French Grand Prix,21,Onofre Marimón,Maserati
+French Grand Prix,22,Toulo de Graffenried,Maserati
+French Grand Prix,23,Peter Whitehead,Ferrari
+British Grand Prix,1,José Froilán González,Ferrari
+British Grand Prix,2,Juan Fangio,Alfa Romeo
+British Grand Prix,3,Luigi Villoresi,Ferrari
+British Grand Prix,4,Felice Bonetto,Alfa Romeo
+British Grand Prix,5,Reg Parnell,BRM
+British Grand Prix,6,Consalvo Sanesi,Alfa Romeo
+British Grand Prix,7,Peter Walker,BRM
+British Grand Prix,8,Brian Shawe Taylor,ERA
+British Grand Prix,9,Peter Whitehead,Ferrari
+British Grand Prix,10,Louis Rosier,Talbot-Lago
+British Grand Prix,11,Bob Gerard,ERA
+British Grand Prix,12,Duncan Hamilton,Talbot-Lago
+British Grand Prix,13,Johnny Claes,Talbot-Lago
+British Grand Prix,14,Nino Farina,Alfa Romeo
+British Grand Prix,15,Joe Kelly,Alta
+British Grand Prix,16,Alberto Ascari,Ferrari
+British Grand Prix,17,Philip Fotheringham-Parker,Maserati
+British Grand Prix,18,David Murray,Maserati
+British Grand Prix,19,Louis Chiron,Talbot-Lago
+British Grand Prix,20,John James,Maserati
+German Grand Prix,1,Alberto Ascari,Ferrari
+German Grand Prix,2,Juan Fangio,Alfa Romeo
+German Grand Prix,3,José Froilán González,Ferrari
+German Grand Prix,4,Luigi Villoresi,Ferrari
+German Grand Prix,5,Piero Taruffi,Ferrari
+German Grand Prix,6,Rudi Fischer,Ferrari
+German Grand Prix,7,Robert Manzon,Simca
+German Grand Prix,8,Louis Rosier,Talbot-Lago
+German Grand Prix,9,Pierre Levegh,Talbot-Lago
+German Grand Prix,10,Jacques Swaters,Talbot-Lago
+German Grand Prix,11,Johnny Claes,Talbot-Lago
+German Grand Prix,12,Yves Cabantous,Talbot-Lago
+German Grand Prix,13,Maurice Trintignant,Simca
+German Grand Prix,14,Felice Bonetto,Alfa Romeo
+German Grand Prix,15,Duncan Hamilton,Talbot-Lago
+German Grand Prix,16,Paul Pietsch,Alfa Romeo
+German Grand Prix,17,André Simon,Simca
+German Grand Prix,18,Nino Farina,Alfa Romeo
+German Grand Prix,19,Philippe Étancelin,Talbot-Lago
+German Grand Prix,20,Louis Chiron,Talbot-Lago
+German Grand Prix,21,Toni Branca,Maserati
+German Grand Prix,22,Toulo de Graffenried,Maserati
+Italian Grand Prix,1,Alberto Ascari,Ferrari
+Italian Grand Prix,2,José Froilán González,Ferrari
+Italian Grand Prix,3,Felice Bonetto,Alfa Romeo
+Italian Grand Prix,3,Nino Farina,Alfa Romeo
+Italian Grand Prix,4,Luigi Villoresi,Ferrari
+Italian Grand Prix,5,Piero Taruffi,Ferrari
+Italian Grand Prix,6,André Simon,Simca
+Italian Grand Prix,7,Louis Rosier,Talbot-Lago
+Italian Grand Prix,8,Yves Cabantous,Talbot-Lago
+Italian Grand Prix,9,Franco Rol,OSCA
+Italian Grand Prix,10,Juan Fangio,Alfa Romeo
+Italian Grand Prix,11,Maurice Trintignant,Simca
+Italian Grand Prix,12,Robert Manzon,Simca
+Italian Grand Prix,13,Louis Chiron,Talbot-Lago
+Italian Grand Prix,14,Pierre Levegh,Talbot-Lago
+Italian Grand Prix,15,Jacques Swaters,Talbot-Lago
+Italian Grand Prix,16,Nino Farina,Alfa Romeo
+Italian Grand Prix,17,Johnny Claes,Talbot-Lago
+Italian Grand Prix,18,Toulo de Graffenried,Alfa Romeo
+Italian Grand Prix,19,Peter Whitehead,Ferrari
+Italian Grand Prix,20,Chico Landi,Ferrari
+Italian Grand Prix,21,Reg Parnell,BRM
+Italian Grand Prix,22,Ken Richardson,BRM
+Spanish Grand Prix,1,Juan Fangio,Alfa Romeo
+Spanish Grand Prix,2,José Froilán González,Ferrari
+Spanish Grand Prix,3,Nino Farina,Alfa Romeo
+Spanish Grand Prix,4,Alberto Ascari,Ferrari
+Spanish Grand Prix,5,Felice Bonetto,Alfa Romeo
+Spanish Grand Prix,6,Toulo de Graffenried,Alfa Romeo
+Spanish Grand Prix,7,Louis Rosier,Talbot-Lago
+Spanish Grand Prix,8,Philippe Étancelin,Talbot-Lago
+Spanish Grand Prix,9,Robert Manzon,Simca
+Spanish Grand Prix,10,Paco Godia,Maserati
+Spanish Grand Prix,11,Luigi Villoresi,Ferrari
+Spanish Grand Prix,12,André Simon,Simca
+Spanish Grand Prix,13,Johnny Claes,Talbot-Lago
+Spanish Grand Prix,14,Piero Taruffi,Ferrari
+Spanish Grand Prix,15,Maurice Trintignant,Simca
+Spanish Grand Prix,16,Georges Grignard,Talbot-Lago
+Spanish Grand Prix,17,Yves Cabantous,Talbot-Lago
+Spanish Grand Prix,18,Louis Chiron,Talbot-Lago
+Spanish Grand Prix,19,Prince Bira,Maserati
+Spanish Grand Prix,20,Juan Jover,Maserati
+Swiss Grand Prix,1,Piero Taruffi,Ferrari
+Swiss Grand Prix,2,Rudi Fischer,Ferrari
+Swiss Grand Prix,3,Jean Behra,Gordini
+Swiss Grand Prix,4,Ken Wharton,Frazer Nash
+Swiss Grand Prix,5,Alan Brown,Cooper
+Swiss Grand Prix,6,Toulo de Graffenried,Maserati
+Swiss Grand Prix,7,Peter Hirt,Ferrari
+Swiss Grand Prix,8,Eric Brandon,Cooper
+Swiss Grand Prix,9,Prince Bira,Simca
+Swiss Grand Prix,10,André Simon,Ferrari
+Swiss Grand Prix,10,Nino Farina,Ferrari
+Swiss Grand Prix,11,Harry Schell,Maserati
+Swiss Grand Prix,12,Stirling Moss,HWM
+Swiss Grand Prix,13,Lance Macklin,HWM
+Swiss Grand Prix,14,Robert Manzon,Gordini
+Swiss Grand Prix,15,Nino Farina,Ferrari
+Swiss Grand Prix,16,Peter Collins,HWM
+Swiss Grand Prix,17,George Abecassis,HWM
+Swiss Grand Prix,18,Hans von Stuck,AFM
+Swiss Grand Prix,19,Toni Ulmen,Veritas
+Swiss Grand Prix,20,Louis Rosier,Ferrari
+Swiss Grand Prix,21,Max de Terra,Simca
+Indianapolis 500,1,Troy Ruttman,Kuzma
+Indianapolis 500,2,Jim Rathmann,Kurtis Kraft
+Indianapolis 500,3,Sam Hanks,Kurtis Kraft
+Indianapolis 500,4,Duane Carter,Lesovsky
+Indianapolis 500,5,Art Cross,Kurtis Kraft
+Indianapolis 500,6,Jimmy Bryan,Kurtis Kraft
+Indianapolis 500,7,Jimmy Reece,Kurtis Kraft
+Indianapolis 500,8,George Connor,Kurtis Kraft
+Indianapolis 500,9,Cliff Griffith,Kurtis Kraft
+Indianapolis 500,10,Johnnie Parsons,Kurtis Kraft
+Indianapolis 500,11,Jack McGrath,Kurtis Kraft
+Indianapolis 500,12,Jim Rigsby,Watson
+Indianapolis 500,13,Joe James,Kurtis Kraft
+Indianapolis 500,14,Bill Schindler,Stevens
+Indianapolis 500,15,George Fonder,Sherman
+Indianapolis 500,16,Eddie Johnson,Trevis
+Indianapolis 500,17,Bill Vukovich,Kurtis Kraft
+Indianapolis 500,18,Chuck Stevenson,Kurtis Kraft
+Indianapolis 500,19,Henry Banks,Lesovsky
+Indianapolis 500,20,Manny Ayulo,Lesovsky
+Indianapolis 500,21,Johnny McDowell,Kurtis Kraft
+Indianapolis 500,22,Travis Webb,Bromme
+Indianapolis 500,23,Rodger Ward,Kurtis Kraft
+Indianapolis 500,24,Tony Bettenhausen,Deidt
+Indianapolis 500,25,Duke Nalon,Kurtis Kraft
+Indianapolis 500,26,Bob Sweikert,Kurtis Kraft
+Indianapolis 500,27,Fred Agabashian,Kurtis Kraft
+Indianapolis 500,28,Gene Hartley,Kurtis Kraft
+Indianapolis 500,29,Bob Scott,Kurtis Kraft
+Indianapolis 500,30,Chet Miller,Kurtis Kraft
+Indianapolis 500,31,Alberto Ascari,Ferrari
+Indianapolis 500,32,Bobby Ball,Stevens
+Indianapolis 500,33,Andy Linden,Kurtis Kraft
+Belgian Grand Prix,1,Alberto Ascari,Ferrari
+Belgian Grand Prix,2,Nino Farina,Ferrari
+Belgian Grand Prix,3,Robert Manzon,Gordini
+Belgian Grand Prix,4,Mike Hawthorn,Cooper
+Belgian Grand Prix,5,Paul Frère,HWM
+Belgian Grand Prix,6,Alan Brown,Cooper
+Belgian Grand Prix,7,Charles de Tornaco,Ferrari
+Belgian Grand Prix,8,Johnny Claes,Gordini
+Belgian Grand Prix,9,Eric Brandon,Cooper
+Belgian Grand Prix,10,Prince Bira,Simca
+Belgian Grand Prix,11,Lance Macklin,HWM
+Belgian Grand Prix,12,Roger Laurent,HWM
+Belgian Grand Prix,13,Arthur Legat,Veritas
+Belgian Grand Prix,14,Robert O'Brien,Simca
+Belgian Grand Prix,15,Tony Gaze,HWM
+Belgian Grand Prix,16,Robin Montgomerie-Charrington,Aston Butterworth
+Belgian Grand Prix,17,Piero Taruffi,Ferrari
+Belgian Grand Prix,18,Jean Behra,Gordini
+Belgian Grand Prix,19,Ken Wharton,Frazer Nash
+Belgian Grand Prix,20,Louis Rosier,Ferrari
+Belgian Grand Prix,21,Peter Collins,HWM
+Belgian Grand Prix,22,Stirling Moss,ERA
+French Grand Prix,1,Alberto Ascari,Ferrari
+French Grand Prix,2,Nino Farina,Ferrari
+French Grand Prix,3,Piero Taruffi,Ferrari
+French Grand Prix,4,Robert Manzon,Gordini
+French Grand Prix,5,Maurice Trintignant,Simca
+French Grand Prix,6,Peter Collins,HWM
+French Grand Prix,7,Jean Behra,Gordini
+French Grand Prix,8,Philippe Étancelin,Maserati
+French Grand Prix,9,Lance Macklin,HWM
+French Grand Prix,10,Yves Cabantous,HWM
+French Grand Prix,11,Rudi Fischer,Ferrari
+French Grand Prix,11,Peter Hirt,Ferrari
+French Grand Prix,12,Franco Comotti,Ferrari
+French Grand Prix,13,Prince Bira,Gordini
+French Grand Prix,14,Mike Hawthorn,Cooper
+French Grand Prix,15,Toulo de Graffenried,Maserati
+French Grand Prix,15,Harry Schell,Maserati
+French Grand Prix,16,Peter Whitehead,Alta
+French Grand Prix,17,Louis Rosier,Ferrari
+French Grand Prix,18,Johnny Claes,Simca
+French Grand Prix,19,Harry Schell,Maserati
+French Grand Prix,20,Piero Carini,Ferrari
+British Grand Prix,1,Alberto Ascari,Ferrari
+British Grand Prix,2,Piero Taruffi,Ferrari
+British Grand Prix,3,Mike Hawthorn,Cooper
+British Grand Prix,4,Dennis Poore,Connaught
+British Grand Prix,5,Eric Thompson,Connaught
+British Grand Prix,6,Nino Farina,Ferrari
+British Grand Prix,7,Reg Parnell,Cooper
+British Grand Prix,8,Roy Salvadori,Ferrari
+British Grand Prix,9,Ken Downing,Connaught
+British Grand Prix,10,Peter Whitehead,Ferrari
+British Grand Prix,11,Prince Bira,Gordini
+British Grand Prix,12,Graham Whitehead,Alta
+British Grand Prix,13,Rudi Fischer,Ferrari
+British Grand Prix,14,Johnny Claes,Simca
+British Grand Prix,15,Lance Macklin,HWM
+British Grand Prix,16,Kenneth McAlpine,Connaught
+British Grand Prix,17,Harry Schell,Maserati
+British Grand Prix,18,Gino Bianco,Maserati
+British Grand Prix,19,Toulo de Graffenried,Maserati
+British Grand Prix,20,Eric Brandon,Cooper
+British Grand Prix,21,Tony Crook,Frazer Nash
+British Grand Prix,22,Alan Brown,Cooper
+British Grand Prix,23,Peter Collins,HWM
+British Grand Prix,24,Duncan Hamilton,HWM
+British Grand Prix,25,Stirling Moss,ERA
+British Grand Prix,26,Maurice Trintignant,Gordini
+British Grand Prix,27,Tony Gaze,HWM
+British Grand Prix,28,David Murray,Cooper
+British Grand Prix,29,Robert Manzon,Gordini
+British Grand Prix,30,Peter Hirt,Ferrari
+British Grand Prix,31,Eitel Cantoni,Maserati
+British Grand Prix,32,Bill Aston,Aston Butterworth
+German Grand Prix,1,Alberto Ascari,Ferrari
+German Grand Prix,2,Nino Farina,Ferrari
+German Grand Prix,3,Rudi Fischer,Ferrari
+German Grand Prix,4,Piero Taruffi,Ferrari
+German Grand Prix,5,Jean Behra,Gordini
+German Grand Prix,6,Roger Laurent,Ferrari
+German Grand Prix,7,Fritz Riess,Veritas
+German Grand Prix,8,Toni Ulmen,Veritas
+German Grand Prix,9,Helmut Niedermayr,AFM
+German Grand Prix,10,Johnny Claes,HWM
+German Grand Prix,11,Hans Klenk,Veritas
+German Grand Prix,12,Ernst Klodwig,BMW
+German Grand Prix,13,Robert Manzon,Gordini
+German Grand Prix,14,Willi Heeks,AFM
+German Grand Prix,15,Tony Gaze,HWM
+German Grand Prix,16,Adolf Brudes,Veritas
+German Grand Prix,17,Marcel Balsa,BMW
+German Grand Prix,18,Günther Bechem,BMW
+German Grand Prix,19,Eitel Cantoni,Maserati
+German Grand Prix,20,Rudolf Krause,BMW
+German Grand Prix,21,Rudolf Schoeller,Ferrari
+German Grand Prix,22,Bill Aston,Aston Butterworth
+German Grand Prix,23,Maurice Trintignant,Gordini
+German Grand Prix,24,Paul Pietsch,Veritas
+German Grand Prix,25,Felice Bonetto,Maserati
+German Grand Prix,26,Paul Frère,HWM
+German Grand Prix,27,Theo Helfrich,Veritas
+German Grand Prix,28,Josef Peters,Veritas
+German Grand Prix,29,Piero Carini,Ferrari
+German Grand Prix,30,Gino Bianco,Maserati
+Dutch Grand Prix,1,Alberto Ascari,Ferrari
+Dutch Grand Prix,2,Nino Farina,Ferrari
+Dutch Grand Prix,3,Luigi Villoresi,Ferrari
+Dutch Grand Prix,4,Mike Hawthorn,Cooper
+Dutch Grand Prix,5,Robert Manzon,Gordini
+Dutch Grand Prix,6,Maurice Trintignant,Gordini
+Dutch Grand Prix,7,Duncan Hamilton,HWM
+Dutch Grand Prix,8,Lance Macklin,HWM
+Dutch Grand Prix,9,Chico Landi,Maserati
+Dutch Grand Prix,9,Jan Flinterman,Maserati
+Dutch Grand Prix,10,Ken Wharton,Frazer Nash
+Dutch Grand Prix,11,Stirling Moss,ERA
+Dutch Grand Prix,12,Dries van der Lof,HWM
+Dutch Grand Prix,13,Ken Downing,Connaught
+Dutch Grand Prix,14,Charles de Tornaco,Ferrari
+Dutch Grand Prix,15,Paul Frère,Simca
+Dutch Grand Prix,16,Jean Behra,Gordini
+Dutch Grand Prix,17,Jan Flinterman,Maserati
+Dutch Grand Prix,18,Gino Bianco,Maserati
+Italian Grand Prix,1,Alberto Ascari,Ferrari
+Italian Grand Prix,2,José Froilán González,Maserati
+Italian Grand Prix,3,Luigi Villoresi,Ferrari
+Italian Grand Prix,4,Nino Farina,Ferrari
+Italian Grand Prix,5,Felice Bonetto,Maserati
+Italian Grand Prix,6,André Simon,Ferrari
+Italian Grand Prix,7,Piero Taruffi,Ferrari
+Italian Grand Prix,8,Chico Landi,Maserati
+Italian Grand Prix,9,Ken Wharton,Cooper
+Italian Grand Prix,10,Louis Rosier,Ferrari
+Italian Grand Prix,11,Eitel Cantoni,Maserati
+Italian Grand Prix,12,Dennis Poore,Connaught
+Italian Grand Prix,13,Eric Brandon,Cooper
+Italian Grand Prix,14,Robert Manzon,Gordini
+Italian Grand Prix,15,Alan Brown,Cooper
+Italian Grand Prix,16,Stirling Moss,Connaught
+Italian Grand Prix,17,Gino Bianco,Maserati
+Italian Grand Prix,18,Jean Behra,Gordini
+Italian Grand Prix,19,Mike Hawthorn,Cooper
+Italian Grand Prix,20,Franco Rol,Maserati
+Italian Grand Prix,21,Maurice Trintignant,Gordini
+Italian Grand Prix,22,Kenneth McAlpine,Connaught
+Italian Grand Prix,23,Rudi Fischer,Ferrari
+Italian Grand Prix,24,Élie Bayol,OSCA
+Italian Grand Prix,25,Charles de Tornaco,Ferrari
+Italian Grand Prix,26,Alberto Crespo,Maserati
+Italian Grand Prix,27,Toulo de Graffenried,Maserati
+Italian Grand Prix,28,Peter Collins,HWM
+Italian Grand Prix,29,Peter Whitehead,Ferrari
+Italian Grand Prix,30,Tony Gaze,HWM
+Italian Grand Prix,31,Bill Aston,Aston Butterworth
+Italian Grand Prix,32,Lance Macklin,HWM
+Italian Grand Prix,33,Hans von Stuck,Ferrari
+Italian Grand Prix,34,Piero Dusio,Cisitalia
+Italian Grand Prix,35,Johnny Claes,Simca
+Argentine Grand Prix,1,Alberto Ascari,Ferrari
+Argentine Grand Prix,2,Luigi Villoresi,Ferrari
+Argentine Grand Prix,3,José Froilán González,Maserati
+Argentine Grand Prix,4,Mike Hawthorn,Ferrari
+Argentine Grand Prix,5,Oscar Gálvez,Maserati
+Argentine Grand Prix,6,Jean Behra,Gordini
+Argentine Grand Prix,7,Maurice Trintignant,Gordini
+Argentine Grand Prix,7,Harry Schell,Gordini
+Argentine Grand Prix,8,John Barber,Cooper
+Argentine Grand Prix,9,Alan Brown,Cooper
+Argentine Grand Prix,10,Robert Manzon,Gordini
+Argentine Grand Prix,11,Juan Fangio,Maserati
+Argentine Grand Prix,12,Felice Bonetto,Maserati
+Argentine Grand Prix,13,Nino Farina,Ferrari
+Argentine Grand Prix,14,Carlos Menditeguy,Gordini
+Argentine Grand Prix,15,Pablo Birger,Simca
+Argentine Grand Prix,16,Adolfo Cruz,Cooper
+Indianapolis 500,1,Bill Vukovich,Kurtis Kraft
+Indianapolis 500,2,Art Cross,Kurtis Kraft
+Indianapolis 500,3,Sam Hanks,Kurtis Kraft
+Indianapolis 500,3,Duane Carter,Kurtis Kraft
+Indianapolis 500,4,Paul Russo,Kurtis Kraft
+Indianapolis 500,4,Fred Agabashian,Kurtis Kraft
+Indianapolis 500,5,Jack McGrath,Kurtis Kraft
+Indianapolis 500,6,Jimmy Daywalt,Kurtis Kraft
+Indianapolis 500,7,Jim Rathmann,Kurtis Kraft
+Indianapolis 500,7,Eddie Johnson,Kurtis Kraft
+Indianapolis 500,8,Ernie McCoy,Stevens
+Indianapolis 500,9,Tony Bettenhausen,Kuzma
+Indianapolis 500,9,Chuck Stevenson,Kuzma
+Indianapolis 500,9,Gene Hartley,Kuzma
+Indianapolis 500,10,Jimmy Davies,Kurtis Kraft
+Indianapolis 500,11,Duke Nalon,Kurtis Kraft
+Indianapolis 500,12,Carl Scarborough,Kurtis Kraft
+Indianapolis 500,12,Bob Scott,Kurtis Kraft
+Indianapolis 500,13,Manny Ayulo,Kuzma
+Indianapolis 500,14,Jimmy Bryan,Schroeder
+Indianapolis 500,15,Bill Holland,Kurtis Kraft
+Indianapolis 500,15,Jim Rathmann,Kurtis Kraft
+Indianapolis 500,16,Andy Linden,Kurtis Kraft
+Indianapolis 500,16,Duke Dinsmore,Kurtis Kraft
+Indianapolis 500,16,Rodger Ward,Kurtis Kraft
+Indianapolis 500,17,Walt Faulkner,Kurtis Kraft
+Indianapolis 500,17,Johnny Mantz,Kurtis Kraft
+Indianapolis 500,18,Marshall Teague,Kurtis Kraft
+Indianapolis 500,19,Travis Webb,Kurtis Kraft
+Indianapolis 500,19,Johnny Thomson,Kurtis Kraft
+Indianapolis 500,19,Jackie Holmes,Kurtis Kraft
+Indianapolis 500,20,Bob Sweikert,Kuzma
+Indianapolis 500,21,Mike Nazaruk,Turner
+Indianapolis 500,22,Pat Flaherty,Kuzma
+Indianapolis 500,23,Jerry Hoyt,Kurtis Kraft
+Indianapolis 500,23,Chuck Stevenson,Kurtis Kraft
+Indianapolis 500,23,Andy Linden,Kurtis Kraft
+Indianapolis 500,24,Duane Carter,Lesovsky
+Indianapolis 500,25,Paul Russo,Kurtis Kraft
+Indianapolis 500,26,Johnnie Parsons,Kurtis Kraft
+Indianapolis 500,27,Don Freeland,Watson
+Indianapolis 500,28,Gene Hartley,Kurtis Kraft
+Indianapolis 500,29,Chuck Stevenson,Kuzma
+Indianapolis 500,30,Cal Niday,Kurtis Kraft
+Indianapolis 500,31,Bob Scott,Bromme
+Indianapolis 500,32,Johnny Thomson,Del Roy
+Indianapolis 500,33,Andy Linden,Stevens
+Dutch Grand Prix,1,Alberto Ascari,Ferrari
+Dutch Grand Prix,2,Nino Farina,Ferrari
+Dutch Grand Prix,3,Felice Bonetto,Maserati
+Dutch Grand Prix,3,José Froilán González,Maserati
+Dutch Grand Prix,4,Mike Hawthorn,Ferrari
+Dutch Grand Prix,5,Toulo de Graffenried,Maserati
+Dutch Grand Prix,6,Maurice Trintignant,Gordini
+Dutch Grand Prix,7,Louis Rosier,Ferrari
+Dutch Grand Prix,8,Peter Collins,HWM
+Dutch Grand Prix,9,Stirling Moss,Connaught
+Dutch Grand Prix,10,Luigi Villoresi,Ferrari
+Dutch Grand Prix,11,Kenneth McAlpine,Connaught
+Dutch Grand Prix,12,Harry Schell,Gordini
+Dutch Grand Prix,13,Johnny Claes,Connaught
+Dutch Grand Prix,14,Juan Fangio,Maserati
+Dutch Grand Prix,15,Roberto Mieres,Gordini
+Dutch Grand Prix,16,José Froilán González,Maserati
+Dutch Grand Prix,17,Ken Wharton,Cooper
+Dutch Grand Prix,18,Roy Salvadori,Connaught
+Dutch Grand Prix,19,Lance Macklin,HWM
+Belgian Grand Prix,1,Alberto Ascari,Ferrari
+Belgian Grand Prix,2,Luigi Villoresi,Ferrari
+Belgian Grand Prix,3,Onofre Marimón,Maserati
+Belgian Grand Prix,4,Toulo de Graffenried,Maserati
+Belgian Grand Prix,5,Maurice Trintignant,Gordini
+Belgian Grand Prix,6,Mike Hawthorn,Ferrari
+Belgian Grand Prix,7,Harry Schell,Gordini
+Belgian Grand Prix,8,Louis Rosier,Ferrari
+Belgian Grand Prix,9,Fred Wacker,Gordini
+Belgian Grand Prix,10,Paul Frère,HWM
+Belgian Grand Prix,11,André Pilette,Connaught
+Belgian Grand Prix,12,Johnny Claes,Maserati
+Belgian Grand Prix,12,Juan Fangio,Maserati
+Belgian Grand Prix,13,Lance Macklin,HWM
+Belgian Grand Prix,14,Nino Farina,Ferrari
+Belgian Grand Prix,15,Juan Fangio,Maserati
+Belgian Grand Prix,16,José Froilán González,Maserati
+Belgian Grand Prix,17,Jean Behra,Gordini
+Belgian Grand Prix,18,Peter Collins,HWM
+Belgian Grand Prix,19,Georges Berger,Simca
+Belgian Grand Prix,20,Arthur Legat,Veritas
+French Grand Prix,1,Mike Hawthorn,Ferrari
+French Grand Prix,2,Juan Fangio,Maserati
+French Grand Prix,3,José Froilán González,Maserati
+French Grand Prix,4,Alberto Ascari,Ferrari
+French Grand Prix,5,Nino Farina,Ferrari
+French Grand Prix,6,Luigi Villoresi,Ferrari
+French Grand Prix,7,Toulo de Graffenried,Maserati
+French Grand Prix,8,Louis Rosier,Ferrari
+French Grand Prix,9,Onofre Marimón,Maserati
+French Grand Prix,10,Jean Behra,Gordini
+French Grand Prix,11,Bob Gerard,Cooper
+French Grand Prix,12,Johnny Claes,Connaught
+French Grand Prix,13,Peter Collins,HWM
+French Grand Prix,14,Yves Cabantous,HWM
+French Grand Prix,15,Louis Chiron,OSCA
+French Grand Prix,16,Felice Bonetto,Maserati
+French Grand Prix,17,Stirling Moss,Cooper
+French Grand Prix,18,Prince Bira,Connaught
+French Grand Prix,19,Élie Bayol,OSCA
+French Grand Prix,20,Ken Wharton,Cooper
+French Grand Prix,21,Maurice Trintignant,Gordini
+French Grand Prix,22,Lance Macklin,HWM
+French Grand Prix,23,Harry Schell,Gordini
+French Grand Prix,24,Roberto Mieres,Gordini
+French Grand Prix,25,Roy Salvadori,Connaught
+British Grand Prix,1,Alberto Ascari,Ferrari
+British Grand Prix,2,Juan Fangio,Maserati
+British Grand Prix,3,Nino Farina,Ferrari
+British Grand Prix,4,José Froilán González,Maserati
+British Grand Prix,5,Mike Hawthorn,Ferrari
+British Grand Prix,6,Felice Bonetto,Maserati
+British Grand Prix,7,Prince Bira,Connaught
+British Grand Prix,8,Ken Wharton,Cooper
+British Grand Prix,9,Peter Whitehead,Cooper
+British Grand Prix,10,Louis Rosier,Ferrari
+British Grand Prix,11,Jimmy Stewart,Cooper
+British Grand Prix,12,Tony Rolt,Connaught
+British Grand Prix,13,Luigi Villoresi,Ferrari
+British Grand Prix,14,Onofre Marimón,Maserati
+British Grand Prix,15,Alan Brown,Cooper
+British Grand Prix,16,Peter Collins,HWM
+British Grand Prix,17,Jack Fairman,HWM
+British Grand Prix,18,Roy Salvadori,Connaught
+British Grand Prix,19,Toulo de Graffenried,Maserati
+British Grand Prix,20,Lance Macklin,HWM
+British Grand Prix,21,Jean Behra,Gordini
+British Grand Prix,22,Ian Stewart,Connaught
+British Grand Prix,23,Maurice Trintignant,Gordini
+British Grand Prix,24,Duncan Hamilton,HWM
+British Grand Prix,25,Harry Schell,Gordini
+British Grand Prix,26,Kenneth McAlpine,Connaught
+British Grand Prix,27,Tony Crook,Cooper
+German Grand Prix,1,Nino Farina,Ferrari
+German Grand Prix,2,Juan Fangio,Maserati
+German Grand Prix,3,Mike Hawthorn,Ferrari
+German Grand Prix,4,Felice Bonetto,Maserati
+German Grand Prix,5,Toulo de Graffenried,Maserati
+German Grand Prix,6,Stirling Moss,Cooper
+German Grand Prix,7,Jacques Swaters,Ferrari
+German Grand Prix,8,Alberto Ascari,Ferrari
+German Grand Prix,8,Luigi Villoresi,Ferrari
+German Grand Prix,9,Hans Herrmann,Veritas
+German Grand Prix,10,Louis Rosier,Ferrari
+German Grand Prix,11,Rodney Nuckey,Cooper
+German Grand Prix,12,Theo Helfrich,Veritas
+German Grand Prix,13,Kenneth McAlpine,Connaught
+German Grand Prix,14,Rudolf Krause,BMW
+German Grand Prix,15,Ernst Klodwig,BMW
+German Grand Prix,16,Wolfgang Seidel,Veritas
+German Grand Prix,17,Luigi Villoresi,Ferrari
+German Grand Prix,17,Alberto Ascari,Ferrari
+German Grand Prix,18,Alan Brown,Cooper
+German Grand Prix,19,Onofre Marimón,Maserati
+German Grand Prix,20,Edgar Barth,EMW
+German Grand Prix,21,Johnny Claes,Connaught
+German Grand Prix,22,Oswald Karch,Veritas
+German Grand Prix,23,Willi Heeks,Veritas
+German Grand Prix,24,Jean Behra,Gordini
+German Grand Prix,25,Harry Schell,Gordini
+German Grand Prix,26,Prince Bira,Connaught
+German Grand Prix,27,Theo Fitzau,AFM
+German Grand Prix,28,Kurt Adolff,Ferrari
+German Grand Prix,29,Günther Bechem,AFM
+German Grand Prix,30,Maurice Trintignant,Gordini
+German Grand Prix,31,Roy Salvadori,Connaught
+German Grand Prix,32,Erwin Bauer,Veritas
+German Grand Prix,33,Hans von Stuck,AFM
+German Grand Prix,34,Ernst Loof,Veritas
+Swiss Grand Prix,1,Alberto Ascari,Ferrari
+Swiss Grand Prix,2,Nino Farina,Ferrari
+Swiss Grand Prix,3,Mike Hawthorn,Ferrari
+Swiss Grand Prix,4,Juan Fangio,Maserati
+Swiss Grand Prix,4,Felice Bonetto,Maserati
+Swiss Grand Prix,5,Hermann Lang,Maserati
+Swiss Grand Prix,6,Luigi Villoresi,Ferrari
+Swiss Grand Prix,7,Ken Wharton,Cooper
+Swiss Grand Prix,8,Max de Terra,Ferrari
+Swiss Grand Prix,9,Albert Scherrer,HWM
+Swiss Grand Prix,10,Chico Landi,Maserati
+Swiss Grand Prix,11,Toulo de Graffenried,Maserati
+Swiss Grand Prix,12,Onofre Marimón,Maserati
+Swiss Grand Prix,13,Maurice Trintignant,Gordini
+Swiss Grand Prix,14,Jean Behra,Gordini
+Swiss Grand Prix,15,Felice Bonetto,Maserati
+Swiss Grand Prix,15,Juan Fangio,Maserati
+Swiss Grand Prix,16,Lance Macklin,HWM
+Swiss Grand Prix,17,Peter Hirt,Ferrari
+Swiss Grand Prix,18,Paul Frère,HWM
+Swiss Grand Prix,19,Jacques Swaters,Ferrari
+Swiss Grand Prix,20,Louis Rosier,Ferrari
+Italian Grand Prix,1,Juan Fangio,Maserati
+Italian Grand Prix,2,Nino Farina,Ferrari
+Italian Grand Prix,3,Luigi Villoresi,Ferrari
+Italian Grand Prix,4,Mike Hawthorn,Ferrari
+Italian Grand Prix,5,Maurice Trintignant,Gordini
+Italian Grand Prix,6,Roberto Mieres,Gordini
+Italian Grand Prix,7,Sergio Mantovani,Maserati
+Italian Grand Prix,7,Luigi Musso,Maserati
+Italian Grand Prix,8,Umberto Maglioli,Ferrari
+Italian Grand Prix,9,Harry Schell,Gordini
+Italian Grand Prix,10,Louis Chiron,OSCA
+Italian Grand Prix,11,Prince Bira,Maserati
+Italian Grand Prix,12,Alan Brown,Cooper
+Italian Grand Prix,13,Stirling Moss,Cooper
+Italian Grand Prix,14,Hans von Stuck,AFM
+Italian Grand Prix,15,Yves Cabantous,HWM
+Italian Grand Prix,16,Louis Rosier,Ferrari
+Italian Grand Prix,17,Alberto Ascari,Ferrari
+Italian Grand Prix,18,Felice Bonetto,Maserati
+Italian Grand Prix,19,Onofre Marimón,Maserati
+Italian Grand Prix,20,Toulo de Graffenried,Maserati
+Italian Grand Prix,21,Jack Fairman,Connaught
+Italian Grand Prix,22,Ken Wharton,Cooper
+Italian Grand Prix,23,Kenneth McAlpine,Connaught
+Italian Grand Prix,24,Piero Carini,Ferrari
+Italian Grand Prix,25,Roy Salvadori,Connaught
+Italian Grand Prix,26,Chico Landi,Maserati
+Italian Grand Prix,27,Élie Bayol,OSCA
+Italian Grand Prix,28,John Fitch,HWM
+Italian Grand Prix,29,Johnny Claes,Connaught
+Italian Grand Prix,30,Lance Macklin,HWM
+Argentine Grand Prix,1,Juan Fangio,Maserati
+Argentine Grand Prix,2,Nino Farina,Ferrari
+Argentine Grand Prix,3,José Froilán González,Ferrari
+Argentine Grand Prix,4,Maurice Trintignant,Ferrari
+Argentine Grand Prix,5,Élie Bayol,Gordini
+Argentine Grand Prix,6,Harry Schell,Maserati
+Argentine Grand Prix,7,Prince Bira,Maserati
+Argentine Grand Prix,8,Toulo de Graffenried,Maserati
+Argentine Grand Prix,9,Umberto Maglioli,Ferrari
+Argentine Grand Prix,10,Jean Behra,Gordini
+Argentine Grand Prix,11,Mike Hawthorn,Ferrari
+Argentine Grand Prix,12,Onofre Marimón,Maserati
+Argentine Grand Prix,13,Roberto Mieres,Maserati
+Argentine Grand Prix,14,Roger Loyer,Gordini
+Argentine Grand Prix,15,Jorge Daponte,Maserati
+Argentine Grand Prix,16,Louis Rosier,Ferrari
+Argentine Grand Prix,17,Luigi Musso,Maserati
+Argentine Grand Prix,18,Carlos Menditeguy,Maserati
+Indianapolis 500,1,Bill Vukovich,Kurtis Kraft
+Indianapolis 500,2,Jimmy Bryan,Kuzma
+Indianapolis 500,3,Jack McGrath,Kurtis Kraft
+Indianapolis 500,4,Troy Ruttman,Kurtis Kraft
+Indianapolis 500,4,Duane Carter,Kurtis Kraft
+Indianapolis 500,5,Mike Nazaruk,Kurtis Kraft
+Indianapolis 500,6,Fred Agabashian,Kurtis Kraft
+Indianapolis 500,7,Don Freeland,Phillips
+Indianapolis 500,8,Paul Russo,Kurtis Kraft
+Indianapolis 500,8,Jerry Hoyt,Kurtis Kraft
+Indianapolis 500,9,Larry Crockett,Kurtis Kraft
+Indianapolis 500,10,Cal Niday,Stevens
+Indianapolis 500,11,Art Cross,Kurtis Kraft
+Indianapolis 500,11,Johnnie Parsons,Kurtis Kraft
+Indianapolis 500,11,Sam Hanks,Kurtis Kraft
+Indianapolis 500,11,Andy Linden,Kurtis Kraft
+Indianapolis 500,11,Jimmy Davies,Kurtis Kraft
+Indianapolis 500,12,Walt Faulkner,Kuzma
+Indianapolis 500,12,Chuck Stevenson,Kuzma
+Indianapolis 500,13,Manny Ayulo,Kuzma
+Indianapolis 500,14,Bob Sweikert,Kurtis Kraft
+Indianapolis 500,15,Duane Carter,Kurtis Kraft
+Indianapolis 500,15,Marshall Teague,Kurtis Kraft
+Indianapolis 500,15,Jimmy Jackson,Kurtis Kraft
+Indianapolis 500,15,Tony Bettenhausen,Kurtis Kraft
+Indianapolis 500,16,Ernie McCoy,Kurtis Kraft
+Indianapolis 500,17,Jimmy Reece,Pankratz
+Indianapolis 500,18,Ed Elisian,Stevens
+Indianapolis 500,18,Bob Scott,Stevens
+Indianapolis 500,19,George Fonder,Kurtis Kraft
+Indianapolis 500,19,Frank Armi,Kurtis Kraft
+Indianapolis 500,20,Sam Hanks,Kurtis Kraft
+Indianapolis 500,20,Jimmy Davies,Kurtis Kraft
+Indianapolis 500,20,Jim Rathmann,Kurtis Kraft
+Indianapolis 500,21,Pat O'Connor,Kurtis Kraft
+Indianapolis 500,22,Rodger Ward,Pawl
+Indianapolis 500,22,Eddie Johnson,Pawl
+Indianapolis 500,23,Marshall Teague,Kurtis Kraft
+Indianapolis 500,23,Gene Hartley,Kurtis Kraft
+Indianapolis 500,24,Johnny Thomson,Nichels
+Indianapolis 500,24,Andy Linden,Nichels
+Indianapolis 500,24,Jimmy Daywalt,Nichels
+Indianapolis 500,25,Bob Scott,Schroeder
+Indianapolis 500,25,Andy Linden,Schroeder
+Indianapolis 500,26,Jerry Hoyt,Kurtis Kraft
+Indianapolis 500,27,Jimmy Daywalt,Kurtis Kraft
+Indianapolis 500,28,Jim Rathmann,Kurtis Kraft
+Indianapolis 500,28,Pat Flaherty,Kurtis Kraft
+Indianapolis 500,29,Tony Bettenhausen,Kurtis Kraft
+Indianapolis 500,30,Travis Webb,Bromme
+Indianapolis 500,30,Danny Kladis,Bromme
+Indianapolis 500,31,George Fonder,Schroeder
+Indianapolis 500,31,Len Duncan,Schroeder
+Indianapolis 500,32,Johnnie Parsons,Kurtis Kraft
+Indianapolis 500,33,Bill Homeier,Kurtis Kraft
+Belgian Grand Prix,1,Juan Fangio,Maserati
+Belgian Grand Prix,2,Maurice Trintignant,Ferrari
+Belgian Grand Prix,3,Stirling Moss,Maserati
+Belgian Grand Prix,4,José Froilán González,Ferrari
+Belgian Grand Prix,4,Mike Hawthorn,Ferrari
+Belgian Grand Prix,5,André Pilette,Gordini
+Belgian Grand Prix,6,Prince Bira,Maserati
+Belgian Grand Prix,7,Sergio Mantovani,Maserati
+Belgian Grand Prix,8,Nino Farina,Ferrari
+Belgian Grand Prix,9,Paul Frère,Gordini
+Belgian Grand Prix,10,Jean Behra,Gordini
+Belgian Grand Prix,11,Onofre Marimón,Maserati
+Belgian Grand Prix,12,José Froilán González,Ferrari
+Belgian Grand Prix,13,Jacques Swaters,Ferrari
+Belgian Grand Prix,14,Roberto Mieres,Maserati
+French Grand Prix,1,Juan Fangio,Mercedes
+French Grand Prix,2,Karl Kling,Mercedes
+French Grand Prix,3,Robert Manzon,Ferrari
+French Grand Prix,4,Prince Bira,Maserati
+French Grand Prix,5,Luigi Villoresi,Maserati
+French Grand Prix,6,Jean Behra,Gordini
+French Grand Prix,7,Paul Frère,Gordini
+French Grand Prix,8,Maurice Trintignant,Ferrari
+French Grand Prix,9,Louis Rosier,Ferrari
+French Grand Prix,10,Onofre Marimón,Maserati
+French Grand Prix,11,Roberto Mieres,Maserati
+French Grand Prix,12,Ken Wharton,Maserati
+French Grand Prix,13,Harry Schell,Maserati
+French Grand Prix,14,Hans Herrmann,Mercedes
+French Grand Prix,15,Roy Salvadori,Maserati
+French Grand Prix,16,José Froilán González,Ferrari
+French Grand Prix,17,Lance Macklin,HWM
+French Grand Prix,18,Georges Berger,Gordini
+French Grand Prix,19,Mike Hawthorn,Ferrari
+French Grand Prix,20,Jacques Pollet,Gordini
+French Grand Prix,21,Alberto Ascari,Maserati
+French Grand Prix,22,Sergio Mantovani,Maserati
+British Grand Prix,1,José Froilán González,Ferrari
+British Grand Prix,2,Mike Hawthorn,Ferrari
+British Grand Prix,3,Onofre Marimón,Maserati
+British Grand Prix,4,Juan Fangio,Mercedes
+British Grand Prix,5,Maurice Trintignant,Ferrari
+British Grand Prix,6,Roberto Mieres,Maserati
+British Grand Prix,7,Karl Kling,Mercedes
+British Grand Prix,8,Ken Wharton,Maserati
+British Grand Prix,9,André Pilette,Gordini
+British Grand Prix,10,Bob Gerard,Cooper
+British Grand Prix,11,Don Beauman,Connaught
+British Grand Prix,12,Harry Schell,Maserati
+British Grand Prix,13,Leslie Marr,Connaught
+British Grand Prix,14,Leslie Thorne,Connaught
+British Grand Prix,15,Horace Gould,Cooper
+British Grand Prix,16,Stirling Moss,Maserati
+British Grand Prix,17,Bill Whitehouse,Connaught
+British Grand Prix,18,Jean Behra,Gordini
+British Grand Prix,19,Roy Salvadori,Maserati
+British Grand Prix,20,Prince Bira,Maserati
+British Grand Prix,20,Ron Flockhart,Maserati
+British Grand Prix,21,Alberto Ascari,Maserati
+British Grand Prix,21,Luigi Villoresi,Maserati
+British Grand Prix,22,John Riseley-Prichard,Connaught
+British Grand Prix,23,Reg Parnell,Ferrari
+British Grand Prix,24,Alberto Ascari,Maserati
+British Grand Prix,25,Clemar Bucci,Gordini
+British Grand Prix,26,Peter Collins,Vanwall
+British Grand Prix,27,Robert Manzon,Ferrari
+British Grand Prix,28,Peter Whitehead,Cooper
+British Grand Prix,29,Eric Brandon,Cooper
+British Grand Prix,30,Louis Rosier,Ferrari
+British Grand Prix,31,Alan Brown,Cooper
+British Grand Prix,32,Rodney Nuckey,Cooper
+German Grand Prix,1,Juan Fangio,Mercedes
+German Grand Prix,2,José Froilán González,Ferrari
+German Grand Prix,2,Mike Hawthorn,Ferrari
+German Grand Prix,3,Maurice Trintignant,Ferrari
+German Grand Prix,4,Karl Kling,Mercedes
+German Grand Prix,5,Sergio Mantovani,Maserati
+German Grand Prix,6,Piero Taruffi,Ferrari
+German Grand Prix,7,Harry Schell,Maserati
+German Grand Prix,8,Louis Rosier,Ferrari
+German Grand Prix,9,Robert Manzon,Ferrari
+German Grand Prix,10,Jean Behra,Gordini
+German Grand Prix,11,Prince Bira,Maserati
+German Grand Prix,12,Hermann Lang,Mercedes
+German Grand Prix,13,Clemar Bucci,Gordini
+German Grand Prix,14,Theo Helfrich,Klenk
+German Grand Prix,15,Hans Herrmann,Mercedes
+German Grand Prix,16,Paul Frère,Gordini
+German Grand Prix,17,Mike Hawthorn,Ferrari
+German Grand Prix,18,Roberto Mieres,Maserati
+German Grand Prix,19,Stirling Moss,Maserati
+German Grand Prix,20,André Pilette,Gordini
+German Grand Prix,21,Onofre Marimón,Maserati
+German Grand Prix,22,Luigi Villoresi,Maserati
+German Grand Prix,23,Ken Wharton,Maserati
+Swiss Grand Prix,1,Juan Fangio,Mercedes
+Swiss Grand Prix,2,José Froilán González,Ferrari
+Swiss Grand Prix,3,Hans Herrmann,Mercedes
+Swiss Grand Prix,4,Roberto Mieres,Maserati
+Swiss Grand Prix,5,Sergio Mantovani,Maserati
+Swiss Grand Prix,6,Ken Wharton,Maserati
+Swiss Grand Prix,7,Umberto Maglioli,Ferrari
+Swiss Grand Prix,8,Jacques Swaters,Ferrari
+Swiss Grand Prix,9,Karl Kling,Mercedes
+Swiss Grand Prix,10,Maurice Trintignant,Ferrari
+Swiss Grand Prix,11,Mike Hawthorn,Ferrari
+Swiss Grand Prix,12,Harry Schell,Maserati
+Swiss Grand Prix,13,Stirling Moss,Maserati
+Swiss Grand Prix,14,Fred Wacker,Gordini
+Swiss Grand Prix,15,Jean Behra,Gordini
+Swiss Grand Prix,16,Clemar Bucci,Gordini
+Swiss Grand Prix,17,Robert Manzon,Ferrari
+Italian Grand Prix,1,Juan Fangio,Mercedes
+Italian Grand Prix,2,Mike Hawthorn,Ferrari
+Italian Grand Prix,3,Umberto Maglioli,Ferrari
+Italian Grand Prix,3,José Froilán González,Ferrari
+Italian Grand Prix,4,Hans Herrmann,Mercedes
+Italian Grand Prix,5,Maurice Trintignant,Ferrari
+Italian Grand Prix,6,Fred Wacker,Gordini
+Italian Grand Prix,7,Peter Collins,Vanwall
+Italian Grand Prix,8,Louis Rosier,Maserati
+Italian Grand Prix,9,Sergio Mantovani,Maserati
+Italian Grand Prix,10,Stirling Moss,Maserati
+Italian Grand Prix,11,Jorge Daponte,Maserati
+Italian Grand Prix,12,Alberto Ascari,Ferrari
+Italian Grand Prix,13,Luigi Villoresi,Maserati
+Italian Grand Prix,14,Karl Kling,Mercedes
