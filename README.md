@@ -1,1 +1,5 @@
 # Formula1
+I was hired to create a dataset to support an article which would examine Red Bull Racing's dominance of this season
+The goal was to compare 2023 with previous years where a team had taken a Formula One word championship by the scruff of the neck and won over 70% of the races.
+I started by using an API to to source finishing and qualifying results from ergast.com - and exnountered some issues with missing data, in qualifying results and finishing times and margins. I was also looking for information outside the scope of this API, such as technical regulations, in order to run a workd count on regulation changes. For this, I scraped the official formula one website, also for finishing margins, using ChatGPT to help with a python script to complete this task.
+Once the data was scraped, and put into csv file, it has to be cleaned - there are drivers with special charecters, data included letters and symbols in some cases, and finishing margins would sometimes be alphanumeric strings if a driver was lapped or didn't finish. This all had to be changed or codified in order to function with SQL queries.
